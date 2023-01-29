@@ -1,0 +1,18 @@
+{"posts":[
+    {
+        "id":"1",
+        "name": "PizzaBurg",
+        "logo": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/290973701_2585545474910282_6405711557418366482_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHd0QCkRZaJVUOlZV93J-gjP8Vrp_Nyhgw_xWun83KGDMjgj53lvVxhFURlKTpRv9lA3nLXbGoNIwDql3EintVr&_nc_ohc=c4I3Ml-SrW0AX8eypOj&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfAkBsMvFQyex-uU_8zZMpPUeN-WQwAi-RNYJrGbjkJauw&oe=63DA089C",
+        "description":"10% Discount for Top Fan",
+        "image":["https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/326681284_699977741587743_2721035364813711756_n.jpg?stp=dst-jpg_p526x296&_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeF-Vv0BJ-AsX26_xheMPk3qgqiOgB4sSESCqI6AHixIRLgXrhRfD612zjfWarPDb-_pBz2zAMpE6j4eckIdH8Xf&_nc_ohc=WaEO5oRkeAQAX9q1ZEG&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfBdVrOUOBCmbD9Q1F1-Swkexa1NubZ0gGKCh9i7HdmSAw&oe=63DA6614"]
+    },
+    {
+        "id":"2",
+        "name": "PizzaBurg",
+        "logo": "https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/290973701_2585545474910282_6405711557418366482_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHd0QCkRZaJVUOlZV93J-gjP8Vrp_Nyhgw_xWun83KGDMjgj53lvVxhFURlKTpRv9lA3nLXbGoNIwDql3EintVr&_nc_ohc=c4I3Ml-SrW0AX8eypOj&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfAkBsMvFQyex-uU_8zZMpPUeN-WQwAi-RNYJrGbjkJauw&oe=63DA089C",
+        "description":"10% Discount for Top Fan",
+        "image":["https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/326681284_699977741587743_2721035364813711756_n.jpg?stp=dst-jpg_p526x296&_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeF-Vv0BJ-AsX26_xheMPk3qgqiOgB4sSESCqI6AHixIRLgXrhRfD612zjfWarPDb-_pBz2zAMpE6j4eckIdH8Xf&_nc_ohc=WaEO5oRkeAQAX9q1ZEG&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfBdVrOUOBCmbD9Q1F1-Swkexa1NubZ0gGKCh9i7HdmSAw&oe=63DA6614"]
+    }
+]}
+        
+    
